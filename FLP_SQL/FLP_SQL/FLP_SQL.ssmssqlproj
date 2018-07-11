@@ -19,11 +19,41 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="F_GetLastMonth_PCC.sql">
+        <FileNode Name="F_GetCurrentMonthDownlineOrder.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:172.23.4.250:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>172.23.4.250</AssociatedConnSrvName>
           <AssociatedConnUserName>sa</AssociatedConnUserName>
-          <FullPath>F_GetLastMonth_PCC.sql</FullPath>
+          <FullPath>F_GetCurrentMonthDownlineOrder.sql</FullPath>
+        </FileNode>
+        <FileNode Name="F_GetCurrentMonthNMOrder.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:172.23.4.250:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>172.23.4.250</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>F_GetCurrentMonthNMOrder.sql</FullPath>
+        </FileNode>
+        <FileNode Name="F_GetCurrentMonthPOrder.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:172.23.4.250:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>172.23.4.250</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>F_GetCurrentMonthPOrder.sql</FullPath>
+        </FileNode>
+        <FileNode Name="F_GetLastMonthDownlineOrder.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:172.23.4.250:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>172.23.4.250</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>F_GetLastMonthDownlineOrder.sql</FullPath>
+        </FileNode>
+        <FileNode Name="F_GetLastMonthNMOrder.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:172.23.4.250:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>172.23.4.250</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>F_GetLastMonthNMOrder.sql</FullPath>
+        </FileNode>
+        <FileNode Name="F_GetLastMonthPOrder.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:172.23.4.250:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>172.23.4.250</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>F_GetLastMonthPOrder.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
