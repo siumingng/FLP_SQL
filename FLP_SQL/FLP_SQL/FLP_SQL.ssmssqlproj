@@ -55,6 +55,12 @@
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>F_GetLastMonthPOrder.sql</FullPath>
         </FileNode>
+        <FileNode Name="Get_Latest_email.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:172.23.4.250:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>172.23.4.250</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Get_Latest_email.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
