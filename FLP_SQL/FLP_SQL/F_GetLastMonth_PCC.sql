@@ -20,3 +20,5 @@ select SUM(total_cc)  from v_cfund as c
 inner join q as d
 on c.dist_id = d.dist_id
 where c.dist_id <> '852000000245'
+
+-- remarks
